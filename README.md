@@ -1,3 +1,10 @@
-# dl_workshop
-# Do your work omkar
-<img src="https://www.pngitem.com/pimgs/m/207-2073671_funny-work-in-progress-clipart-png-download-work.png" width="20%"/>
+# DL Workshop
+This repository contains data for the DL workshop at **AI-driven approaches in structural biology** IndiaEMBO lecture course at IISc.
+
+## Slides
+Click [here]() for the slides.
+
+## Google Colab Notebook
+[![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)]()
+
+# References
