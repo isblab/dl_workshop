@@ -1,0 +1,41 @@
+name: norm_experiment_env
+
+channels:
+  - pytorch
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  # Core Python
+  - python=3.10
+
+  # Scientific stack
+  - numpy
+  - scipy
+  - pandas
+
+  # PyTorch (adjust CUDA version if needed)
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly  # Remove this if using GPU
+
+  # Bioinformatics
+  - biopython
+  - hmmer
+  - muscle
+  - emboss
+
+  # Sequence annotation
+  - anarci
+
+  # Utilities
+  - pip
+  - setuptools
+  - wheel
+
+  # Pip-only packages
+  - pip:
+      - ablang2
+      - fair-esm
