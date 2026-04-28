@@ -1,5 +1,5 @@
 # Understanding and applying protein language models
-This repository contains data for the practical session named above in the **AI-driven approaches in structural biology** IndiaEMBO lecture course at IISc in May 2026.
+This repository contains data for the practical session named above in the **AI-driven approaches in structural biology** India EMBO lecture course at IISc in May 2026.
 
 ## Slides
 Click [here]() for the slides.
