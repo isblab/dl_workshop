@@ -8,7 +8,7 @@ Click [here]() for the slides.
 [![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)]()
 
 ## Data
-[<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/18a2a13d-f3bb-4b96-97fd-b54cab6620df"/>
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/18a2a13d-f3bb-4b96-97fd-b54cab6620df"/>
 (https://doi.org/10.5281/zenodo.19848598).
  
 
