@@ -7,6 +7,10 @@ Click [here]() for the slides.
 ## Google Colab Notebook
 [![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)]()
 
+## Data
+Click [here](https://zenodo.org/records/19848598/) for the dataset on Zenodo.
+
+
 ## References
 1. Lin Z. et al. (2023) Science. Evolutionary-scale prediction of atomic-level protein structure with a language model. [DOI](https://doi.org/10.1073/10.1126/science.ade2574)
 2. Meier J. et al. (2021) NeurIPS. Language models enable zero-shot prediction of the effects of mutations on protein function. [PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/f51338d736f95dd42427296047067694-Paper.pdf)
