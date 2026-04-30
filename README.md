@@ -5,7 +5,7 @@ This repository contains data for the practical session named above in the **AI-
 Click [here]() for the slides.
 
 ## Google Colab Notebook
-[![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)]()
+[![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)](https://colab.research.google.com/drive/1cquT9bMud5lVRXTMoVUkHYQN9bOwLj7f?usp=sharing)
 
 ## Data
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19848597.svg)](https://doi.org/10.5281/zenodo.19848597)
