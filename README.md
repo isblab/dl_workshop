@@ -2,7 +2,7 @@
 This repository contains data for the practical session named above in the **AI-driven approaches in structural biology** India EMBO lecture course at IISc in May 2026.
 
 ## Slides
-Click [here]() for the slides.
+Click [here](https://drive.google.com/file/d/1h1adjoNkD1o5dRlh5NQCFJjSjUEP_nwU/view?usp=sharing) for the slides.
 
 ## Google Colab Notebook
 [![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)](https://colab.research.google.com/drive/1cquT9bMud5lVRXTMoVUkHYQN9bOwLj7f?usp=sharing)
