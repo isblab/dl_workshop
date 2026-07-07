@@ -1,14 +1,22 @@
 # Understanding and applying protein language models
-This repository contains data for the practical session named above in the **AI-driven approaches in structural biology** India EMBO lecture course at IISc in May 2026.
+This repository contains data for the practical session named above.
 
 ## Slides
-Click [here](https://drive.google.com/file/d/1h1adjoNkD1o5dRlh5NQCFJjSjUEP_nwU/view?usp=sharing) for the slides.
+Click [here]() for the slides.
 
 ## Google Colab Notebook
 [![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)](https://colab.research.google.com/drive/1cquT9bMud5lVRXTMoVUkHYQN9bOwLj7f?usp=sharing)
 
 ## Data
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19848597.svg)](https://doi.org/10.5281/zenodo.19848597)
+
+<br><br><br><br><br>
+
+## Previous workshops
+### EMBO AI in Structural Biology 2026, IISc
+[Slides](https://drive.google.com/file/d/1h1adjoNkD1o5dRlh5NQCFJjSjUEP_nwU/view?usp=sharing)  
+[![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)](https://colab.research.google.com/drive/1cquT9bMud5lVRXTMoVUkHYQN9bOwLj7f?usp=sharing)
+
 
 ## References
 1. Lin Z. et al. (2023) Science. Evolutionary-scale prediction of atomic-level protein structure with a language model. [DOI](https://doi.org/10.1073/10.1126/science.ade2574)
