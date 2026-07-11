@@ -2,7 +2,7 @@
 This repository contains data for the practical session named above.
 
 ## Slides
-Click [here]() for the slides.
+Click [here](https://drive.google.com/file/d/1SZbOg2n1lv-Xr1ssMlsfBM1h_h_txVnH/view?usp=drive_link) for the slides.
 
 ## Google Colab Notebook
 [![Colab notebook](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&label)](https://colab.research.google.com/drive/1uDY0XyVFQVv9luAwsJbgGOQB2x-tgJXp?usp=sharing)
